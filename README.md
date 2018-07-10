@@ -1,7 +1,7 @@
 # About Me
 A brief introduction about myself and my work experiences
 
-簡易介紹關於我與我的工作經驗
+簡單介紹關於我與我的工作經驗
 # Basic Information / 基本資訊
 * Name: Benson Liao / 廖柏舜
 * Birthday: 1984/10/26
