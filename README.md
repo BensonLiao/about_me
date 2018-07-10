@@ -1,6 +1,7 @@
-# about_me
-A brief introduction about myself
-# Basic information
+# About Me
+A brief introduction about myself and my work experience
+# Basic Information
+* Name: Benson Liao
 * Birthday: 1984/10/26
 * Current Position: Assistant in Institutional Research Office@NTNU
 * Mail: skylock777@gmail.com
