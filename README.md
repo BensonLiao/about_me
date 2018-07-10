@@ -1,9 +1,9 @@
 # About Me
-A brief introduction about myself and my work experience
+A brief introduction about myself and my work experiences
 # Basic Information
 * Name: Benson Liao
 * Birthday: 1984/10/26
-* Current Position: Assistant in Institutional Research Office@NTNU
+* Current Position: System Developer@The Office of Institutional Research, NTNU
 * Mail: skylock777@gmail.com
 * Codepen: https://codepen.io/skylock/
 * Logdown: http://bensonliao-blog.logdown.com/
