@@ -25,8 +25,8 @@ A brief introduction about myself and my work experiences
 * Natural Language Processing
 * Text Mining, Knowledge Discovery
 * Information Retrieval
-* Backend related: Java, Servlet, PHP, Laravel, Tomca, Apache
-* Fronted related: ES5, ES6, JQuert, React.js, D3.js
+* Backend related: Java, Servlet, PHP, Laravel, Tomcat, Apache
+* Fronted related: ES5, ES6, JQuery, React.js, D3.js
 # Education and Career
 * 2003/09~2008/06 Information Management, TamKang University
 * 2008/03~2008/07 ELai Information Service
