@@ -14,7 +14,7 @@ A brief introduction about myself and my work experiences
 * NTNU Year Report (D3.js + PHP) : http://www.iro.ntnu.edu.tw/web/?Yreport
 * ECORE(Extended Chinese Open Relation Extraction) Knowledge QA System (ASP + IIS + Webgine): http://rsp.itc.ntnu.edu.tw/ECORE/
 * CORE(Chinese Open Relation Extraction) Knowledge QA System (ASP + IIS + Webgine): http://rsp.itc.ntnu.edu.tw/CORE/
-* ECORE(Extended Chinese Open Relation Extraction) Knowledge Extraction Map System (JQuery + vis.js + Servlet + CKIP): http://rsp.itc.ntnu.edu.tw:8088/CTM/
+* ECORE(Extended Chinese Open Relation Extraction) Knowledge Extraction Map System (JQuery + Vis.js + Servlet + CKIP): http://rsp.itc.ntnu.edu.tw:8088/CTM/
 * TOCFL(Test of Chines as a Foreign Language) Lerner Corpus Information Retrieval System (JQuery + Servlet): http://tocfl.itc.ntnu.edu.tw/
 # Desktop Programming Projects
 * Learner Corpus Error Toolkit – MarkUI :
